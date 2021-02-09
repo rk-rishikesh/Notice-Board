@@ -15,7 +15,7 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 ## STEP 1: Clone the project
   ```
-   git clone https://github.com/rk-rishikesh/Dora.git
+   git clone https://github.com/rk-rishikesh/Notice-Board.git
   ```
 ## STEP 2: Install dependencies
 ```
@@ -26,6 +26,7 @@ Install these prerequisites to follow along with the tutorial. See free video tu
   Open the Ganache GUI client that you downloaded and installed. This will start your local blockchain instance. 
   
 ## Step 4. Compile & Deploy the Dora Smart Contract
+
   You must migrate the smart contract each time your restart ganache.
   ```
   $ truffle migrate --reset 
